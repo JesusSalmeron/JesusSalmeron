@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JesusSalmeron
-- 👀 I’m interested in Python development
+- 👀 I’m interested in Python development and SQL databases
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me ... Text me !!!!!! -> https://www.linkedin.com/in/jesussalmeronfx/
+- 💞️ I’m looking to collaborate on Python projects or working in SQL
+- 📫 How to reach me ... Text me !!!!!! -> https://www.linkedin.com/in/jesussalmeronfx/ 
 
 <!---
 JesusSalmeron/JesusSalmeron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
