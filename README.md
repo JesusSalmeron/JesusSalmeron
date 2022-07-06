@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesusSalmeron
-- 👀 I’m interested in Python development and SQL databases
+- 👀 I’m interested in Python development , SQL databases and POWER BI.
 - 🌱 I’m currently learning different tools for data analysis and scraping.
-- 💞️ I’m looking to collaborate on Python projects or working in SQL
+- 💞️ I’m looking to improve my skills. Thanks a lot to EXTRADATA for the trust!
 - 📫 How to reach me ... Text me !!!!!! -> https://www.linkedin.com/in/jesussalmeronfx/ 
 
 <!---
